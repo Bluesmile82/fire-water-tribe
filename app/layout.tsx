@@ -48,7 +48,7 @@ export default function RootLayout({
             </a>
             <a
               className="ml-2"
-              href="https://www.instagram.comfirewatertribe"
+              href="https://www.instagram.com/firewatertribe"
               title="Instagram link"
             >
               <svg
